@@ -22,7 +22,7 @@ Currently pursuing **BCA**, I enjoy learning new technologies and turning ideas 
 
  **Frontend**
 
-👉 React.js • Redux • JavaScript • HTML • CSS • TailwindCSS • Bootstrap
+👉 React.js • Redux • JavaScript • HTML • CSS • TailwindCSS 
 
  **Backend**
 
@@ -30,17 +30,17 @@ Currently pursuing **BCA**, I enjoy learning new technologies and turning ideas 
 
 **Database**
 
-👉 MongoDB • Firebase
+👉 MongoDB 
 
  **Tools**
 
-👉 Git • GitHub • VS Code • Postman • 
+👉 Git • GitHub • VS Code • Postman  
 
 ---
 
  ⭐ Projects I’ve Built / Working On
 
- 🧠 **AI Ethics Project – "Can We Trust the Machine?"**
+ 
 
 Full academic + technical project with explanations and visuals.
 
@@ -116,13 +116,7 @@ Features:
 ## 📫 Connect With Me
 
 📧 Email: mk3164070@gmail.com
-🔗 LinkedIn: madhav kaushik 
+🔗 LinkedIn: https://www.linkedin.com/in/madhav-kaushik-388a122b3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
----
 
-If you want, I can also create:
-✅ A **dark animated version**
-✅ A **minimal professional version**
-✅ A **GitHub profile with icons for each project and live demo links**
 
-Just tell me!
