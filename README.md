@@ -91,9 +91,10 @@ Features:
  📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Madhav01-Tech &show_icons=true&theme=tokyonight" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadhavKaushik&layout=compact&theme=tokyonight" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Madhav01-Tech&show_icons=true&theme=tokyonight" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madhav01-Tech&layout=compact&theme=tokyonight" height="180px"/>
 </p>
+
 
 ---
 
