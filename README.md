@@ -1,8 +1,6 @@
-Madhav 🔥 your GitHub profile is already strong — but I’ll upgrade it into a **more professional, recruiter-impressive, and clean developer portfolio README** version.
 
-Here’s an improved version you can directly copy:
 
----
+
 
 # 👋 Hi, I'm Madhav Kaushik
 
@@ -115,9 +113,10 @@ I enjoy building modern, scalable, and responsive web applications using real-wo
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Madhav01-Tech&show_icons=true&theme=tokyonight" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madhav01-Tech&layout=compact&theme=tokyonight" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Madhav01-Tech&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madhav01-Tech&layout=compact&theme=tokyonight" />
 </p>
+
 
 ---
 
