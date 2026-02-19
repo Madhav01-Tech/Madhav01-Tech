@@ -110,9 +110,11 @@ I enjoy building modern, scalable, and responsive web applications using real-wo
 
 ---
 
-![Madhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Madhav01-Tech&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Madhav01-Tech&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madhav01-Tech&layout=compact&theme=tokyonight&cache_seconds=1800" />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Madhav01-Tech&layout=compact&theme=tokyonight)
 
 
 
